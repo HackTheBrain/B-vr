@@ -18,5 +18,8 @@ Because why not?
 
 ## References
 
+## Ethical considerations
+*please share the insights about ethical matters surrounding your work. Some "ethical cards" have been distributed to support the discussion about this subject.*
+
 
 
