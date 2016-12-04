@@ -1,11 +1,11 @@
 # B-vr
 
-This is the project B-vr[biːvə(r)] - a short for Brain VR. Project B-vr is an abstract audiovisual art form with a goal to create a cerebral virtual reality visual music instrument. And a lots of pyramids.
+This is the project B-vr[biːvə(r)] - a short for Brain VR. Project B-vr is an abstract audiovisual art form with a goal to create a cerebral virtual reality visual music instrument. And lots of pyramids.
 
 # Overview
 B-vr is a visual scene portable to VR which is driven by the eeg signal provided by the EMOTIVE eeg. We use its gyroscope to drivethe view on flat screens projections. 
 
-The scenes visuals and sounds are matched to alfa, beta and theta power as well as trained parameters from the OpenViBE . Result is an abstract audiovisual experience which you can shape to your liking with your mind only!
+The scenes visuals and sounds are matched to alpha, beta and theta power as well as trained parameters from the OpenViBE . Result is an abstract audiovisual experience which you can shape to your liking with your mind only!
 
 ![Screenshot]("/images/Capture1.png")
 ![Screenshot2]("/images/Capture2.png")
