@@ -7,6 +7,9 @@ B-vr is a visual scene portable to VR which is driven by the eeg signal provided
 
 The scenes visuals and sounds are matched to alfa, beta and theta power as well as trained parameters from the OpenViBE . Result is an abstract audiovisual experience which you can shape to your liking with your mind only!
 
+![Screenshot]("/images/Capture1.png")
+![Screenshot2]("/images/Capture2.png")
+
 # Project parts
 Unity side of Project can be found [here](https://github.com/hejtmy/hackbrain-eeg2vr/)
 
