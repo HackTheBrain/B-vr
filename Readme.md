@@ -49,6 +49,26 @@ There were some large issues in getting emotive to work. First we realsied that 
 Secondly, ....
 
 #
+=======
+# B-vr 
 
+## WHO:
+* Štěpán Drbohlav
+* Lukáš Hejtmánek
+* Martin Hofmann
+* Lucia Hrašková
+* Evan Tedlock
+* Lukáš Ulrich
 
+alpha - arousal/relaxation
+frontal alpha asymmetry - approach/avoidance
+
+## WHY 
+
+Because why not?
+
+## References
+
+## Ethical considerations
+*please share the insights about ethical matters surrounding your work. Some "ethical cards" have been distributed to support the discussion about this subject.*
 
