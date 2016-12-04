@@ -8,6 +8,7 @@ B-vr is a visual scene portable to VR which is driven by the eeg signal provided
 The scenes visuals and sounds are matched to alpha, beta and theta power as well as trained parameters from the OpenViBE . Result is an abstract audiovisual experience which you can shape to your liking with your mind only!
 
 ![Screenshot](Images/Capture1.PNG)
+
 ![Screenshot2](Images/Capture2.PNG)
 
 # Project parts
