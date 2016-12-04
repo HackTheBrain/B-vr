@@ -1,4 +1,3 @@
-
 # B-vr
 
 This is the project B-vr[biːvə(r)] - a short for Brain VR. Project B-vr is an abstract audiovisual art form with a goal to create a cerebral virtual reality visual music instrument. And a lots of pyramids.
@@ -16,7 +15,6 @@ Open Vibe setups are [here](#)
 ## WHO:
 
 We were a team at the Prague Brain Hackathon in 2016. 
-
 * Štěpán Drbohlav
 * [Lukáš Hejtmánek](https://github.com/hejtmy/)
 * Martin Hofmann
