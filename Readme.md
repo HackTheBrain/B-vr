@@ -5,7 +5,9 @@ This is the project B-vr[biːvə(r)] - a short for Brain VR. Project B-vr is an 
 # Overview
 B-vr is a visual scene portable to VR which is driven by the eeg signal provided by the EMOTIVE eeg. We use its gyroscope to drivethe view on flat screens projections. 
 
-The scenes visuals and sounds are matched to alpha, beta and theta power as well as trained parameters from the OpenViBE . Result is an abstract audiovisual experience which you can shape to your liking with your mind only!
+The scenes visuals and sounds are matched to alpha, beta and theta power as well as trained parameters from the OpenViBE . Result is an abstract audiovisual experience which you can shape to your liking with only your mind! 
+
+More information is in the wiki.
 
 ![Screenshot](Images/Capture1.PNG)
 
@@ -21,7 +23,7 @@ Open Vibe setups are [here](#)
 We were a team at the Prague Brain Hackathon in 2016. 
 * Štěpán Drbohlav
 * [Lukáš Hejtmánek](https://github.com/hejtmy/)
-* Martin Hofmann
-* Lucia Hrašková
-* Evan Tedlock
-* Lukáš Ulrich
+* [Martin Hofmann](https://github.com/martinhofmann94)
+* [Lucia Hrašková](https://github.com/LuciaHrrr)
+* [Evan Tedlock](https://github.com/evantedlock)
+* [Lukáš Ulrich](https://github.com/lucause)
